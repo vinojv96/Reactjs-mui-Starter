@@ -1,6 +1,6 @@
-** Just a copy of the create react app template with mui and clean up **
+# Just a copy of the create react app template with mui and clean up 
 
-## first we need to install the dependencies
+## First we need to install the dependencies
 
 ### `npm install`
 
