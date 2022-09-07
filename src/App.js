@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Container, Typography, Box} from '@mui/material/Container';
+import { Container, Typography, Box} from '@mui/material';
 
 
 export default function App() {
